@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ## Hey, I'm Sriraj Behera!
 
----
-
 ### About me🧑:
 I am Computer Science and Engineering student from The LNM Institute of Information Technology, Jaipur.<br/>
 I am interested in learning Machine Learning, Deep Learning and Artificial Intelligence and would love to grow my knowledge in these technologies.
