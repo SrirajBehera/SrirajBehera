@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 
 ## Hey, I'm Sriraj Behera!
 
+---
+
 ### About me🧑:
-I am Computer Science and Engineering student from The LNM Institute of Information Technology, Jaipur, India.<br/>
+<br/>
+I am Computer Science and Engineering student from The LNM Institute of Information Technology, Jaipur.<br/>
 I am interested in learning Machine Learning, Deep Learning and Artificial Intelligence and would love to grow my knowledge in these technologies.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
@@ -61,11 +64,11 @@ I am interested in learning Machine Learning, Deep Learning and Artificial Intel
 <br/>
 <!-- <p align="center"> -->
 <a href="https://github.com/SrirajBehera">
-    <img align="center" height="180em" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrirajBehera&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" width="335px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrirajBehera&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </a>
 
 <a href="https://github.com/SrirajBehera">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=SrirajBehera&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=SrirajBehera&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
 </a>
 <!-- <p/> -->
 
@@ -73,31 +76,31 @@ I am interested in learning Machine Learning, Deep Learning and Artificial Intel
 
 ### Connect with me🤝:
 <br/>
-<a href="https://linkedin.com/in/sriraj-behera-730b23201/">
+<a href="https://linkedin.com/in/sriraj-behera-730b23201/ target="_blank"">
   <img align="left" alt="Sriraj's Linkdein" width="40px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
-<a href="https://twitter.com/SrirajBehera">
+<a href="https://twitter.com/SrirajBehera" target="_blank">
   <img align="left" alt="Sriraj's Twitter" width="40px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
 </a>
 
-<a href="mailto:behera.sriraj2911@gmail.com">
+<a href="mailto:behera.sriraj2911@gmail.com" target="_blank">
   <img align="left" alt="Sriraj's Gmail" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png" />
 </a>
 
-<a href="https://github.com/SrirajBehera">
+<a href="https://github.com/SrirajBehera" target="_blank">
   <img align="left" alt="Sriraj's Github" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
-<a href="https://t.me/SrirajBehera">
+<a href="https://t.me/SrirajBehera" target="_blank">
   <img align="left" alt="Sriraj's Telegram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Telegram_2019_simple_logo.svg" />
 </a>
 
-<a href="https://www.instagram.com/sriraj_2911/">
+<a href="https://www.instagram.com/sriraj_2911/" target="_blank">
   <img align="left" alt="Sriraj's Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 </a>
 
-<a href="https://www.facebook.com/sriraj.behera.395/">
+<a href="https://www.facebook.com/sriraj.behera.395/" target="_blank">
   <img align="left" alt="Sriraj's Facebook" width="40px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 
