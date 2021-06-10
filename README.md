@@ -68,7 +68,7 @@ I am interested in learning Machine Learning, Deep Learning and Artificial Intel
 </a>
 
 <a href="https://github.com/SrirajBehera">
-    <img align="center" width="420px" src="https://github-readme-stats.vercel.app/api?username=SrirajBehera&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" width="425px" src="https://github-readme-stats.vercel.app/api?username=SrirajBehera&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
 </a>
 <!-- <p/> -->
 
