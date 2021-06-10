@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ---
 
 ### About me🧑:
-<br/>
 I am Computer Science and Engineering student from The LNM Institute of Information Technology, Jaipur.<br/>
 I am interested in learning Machine Learning, Deep Learning and Artificial Intelligence and would love to grow my knowledge in these technologies.
 
@@ -64,11 +63,11 @@ I am interested in learning Machine Learning, Deep Learning and Artificial Intel
 <br/>
 <!-- <p align="center"> -->
 <a href="https://github.com/SrirajBehera">
-    <img align="center" width="335px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrirajBehera&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" height="180em" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrirajBehera&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </a>
 
 <a href="https://github.com/SrirajBehera">
-    <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=SrirajBehera&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=SrirajBehera&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
 </a>
 <!-- <p/> -->
 
