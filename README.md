@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 
 ### About me🧑:
 <br/>
-I am Computer Science and Engineering student from The LNM Institute of Information Technology, Jaipur.<br/>
+I am Computer Science and Engineering student from The LNM Institute of Information Technology, Jaipur, India.<br/>
 I am interested in learning Machine Learning, Deep Learning and Artificial Intelligence and would love to grow my knowledge in these technologies.
 
-<!-- <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" /> -->
+<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="320" />
+<!-- <img align="right" alt="GIF" src="https://bpms.ru/wp-content/uploads/2019/10/low-code.png" width="400" height="280" /> -->
 
 - 🔭 I’m currently working on Data Structures and Algorithms and Android Development.
 - 🌱 I’m currently learning React-Native App Development and strengthing my problem solving abilities.
