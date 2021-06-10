@@ -71,6 +71,16 @@ I am interested in learning Machine Learning, Deep Learning and Artificial Intel
 
 ---
 
+### Competitive Coding Profiles:
+<br/>
+
+[<img src="https://img.shields.io/badge/codechef-%231877F2.svg?&style=for-the-badge&logo=codechef&logoColor=white" />](https://www.codechef.com/users/sriraj_2911)
+[<img src = "https://img.shields.io/badge/codeforces-%23E4405F.svg?&style=for-the-badge&logo=codeforces&logoColor=white">](https://codeforces.com/profile/SrirajBehera/)
+[<img src="https://img.shields.io/badge/leetcode-orange.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/SrirajBehera/)
+[<img src="https://img.shields.io/badge/hacker rank-green.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />](https://www.hackerrank.com/behera_sriraj291)
+
+---
+
 ### Connect with me🤝:
 <br/>
 <a href="https://linkedin.com/in/sriraj-behera-730b23201/ target="_blank"">
