@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ## Hey, I'm Sriraj Behera!
 
----
-
 ### About me🧑:
 <br/>
 I am Computer Science and Engineering student from The LNM Institute of Information Technology, Jaipur.<br/>
