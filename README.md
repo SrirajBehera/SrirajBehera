@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey, I'm Sriraj Behera!
+## Hey, I'm <a href="https://srirajbehera.github.io/Portfolio/" target="_blank">Sriraj Behera</a>!
 
 ### About me🧑:
 I am Computer Science and Engineering student from The LNM Institute of Information Technology, Jaipur.<br/>
-I am interested in learning Machine Learning, Deep Learning and Artificial Intelligence and would love to grow my knowledge in these technologies.
+I am interested in learning Machine Learning, Deep Learning, Artificial Intelligence and Mixed Reality (AR/VR) and would love to grow my knowledge in these technologies.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
@@ -83,7 +83,7 @@ I am interested in learning Machine Learning, Deep Learning and Artificial Intel
 
 ### Connect with me🤝:
 <br/>
-<a href="https://linkedin.com/in/sriraj-behera-730b23201/ target="_blank"">
+<a href="https://linkedin.com/in/sriraj-behera-730b23201/" target="_blank">
   <img align="left" alt="Sriraj's Linkdein" width="40px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
@@ -116,4 +116,4 @@ I am interested in learning Machine Learning, Deep Learning and Artificial Intel
 
 ---
 
-Last edited on: 11/06/2021
+Last modified on: 28/06/2021
