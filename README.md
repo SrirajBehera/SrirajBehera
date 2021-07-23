@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey, I'm <a href="https://srirajbehera.github.io/Portfolio/" target="_blank">Sriraj Behera</a>!
+## Hey, I'm <a href="https://srirajbehera.github.io/" target="_blank">Sriraj Behera</a>!
 
 ### About me🧑:
 I am Computer Science and Engineering student from The LNM Institute of Information Technology, Jaipur.<br/>
