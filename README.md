@@ -17,103 +17,31 @@ Here are some ideas to get you started:
 
 ## Hey, I'm <a href="https://srirajbehera.github.io/" target="_blank">Sriraj Behera</a>!
 
-### About me🧑:
-I am Computer Science and Engineering student from The LNM Institute of Information Technology, Jaipur.<br/>
-I am interested in learning Machine Learning, Deep Learning, Artificial Intelligence and Mixed Reality (AR/VR) and would love to grow my knowledge in these technologies.
+# 💫 About Me:
+🔭 I’m currently working on Data Structures and Algorithms and Machine Learning.<br>🌱 I’m currently learning System Architecture and strengthing my problem-solving abilities.<br>👯 I’m looking to collaborate with Developers who want to create bleeding technology.<br>🤝 I’m looking for help with Open source Contribution.<br>💬 Ask me about Frontend, Backend, Mobile App Development, Web Development, and Blockchain.<br>😄 Pronouns: He/Him.<br>⚡ Fun fact: I don't need caffeine to stay awake, project bugs are enough.
 
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-- 🔭 I’m currently working on Data Structures and Algorithms and Android Development.
-- 🌱 I’m currently learning React-Native App Development and strengthing my problem solving abilities.
-- 👯 I’m looking to collaborate with Fullstack App and Web Developers and Blockchain Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Frontend, Backend, Android Development, Web Development and Blockchain.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to code 24x7.
-- 🎢 Profile Visitors Count: ![](https://visitor-badge.glitch.me/badge?page_id=SrirajBehera.SrirajBehera)
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SrirajBehera&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SrirajBehera&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SrirajBehera&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 
-### Languages and Tools🛠:
-<br/>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" width="40" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-256.png"></code>
-<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://cdn2.iconfinder.com/data/icons/nodejs-1/256/nodejs-256.png"></code>
-<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src="https://docs.soliditylang.org/en/v0.8.5/_images/logo.svg"></code>
-<code><img height="40" width="40" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SrirajBehera&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sriraj.behera.395) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_srirajbehera_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriraj-behera-730b23201/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SrirajBehera) 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=SrirajBehera&icon=5&color=0)](https://visitcount.itsvg.in)
 
-### Github Activity ✔:
-<br/>
-<!-- <p align="center"> -->
-<a href="https://github.com/SrirajBehera">
-    <img align="center" height="180em" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrirajBehera&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-</a>
-
-<a href="https://github.com/SrirajBehera">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=SrirajBehera&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-</a>
-<!-- <p/> -->
-
----
-
-### Competitive Coding Profiles:
-<br/>
-
-[<img src="https://img.shields.io/badge/codechef-%231877F2.svg?&style=for-the-badge&logo=codechef&logoColor=white" />](https://www.codechef.com/users/sriraj_2911)
-[<img src = "https://img.shields.io/badge/codeforces-%23E4405F.svg?&style=for-the-badge&logo=codeforces&logoColor=white">](https://codeforces.com/profile/SrirajBehera/)
-[<img src="https://img.shields.io/badge/leetcode-orange.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/SrirajBehera/)
-[<img src="https://img.shields.io/badge/hacker rank-green.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />](https://www.hackerrank.com/behera_sriraj291)
-
----
-
-### Connect with me🤝:
-<br/>
-<a href="https://linkedin.com/in/sriraj-behera-730b23201/" target="_blank">
-  <img align="left" alt="Sriraj's Linkdein" width="40px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
-</a>
-
-<a href="https://twitter.com/SrirajBehera" target="_blank">
-  <img align="left" alt="Sriraj's Twitter" width="40px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
-</a>
-
-<a href="mailto:behera.sriraj2911@gmail.com" target="_blank">
-  <img align="left" alt="Sriraj's Gmail" width="40px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png" />
-</a>
-
-<a href="https://github.com/SrirajBehera" target="_blank">
-  <img align="left" alt="Sriraj's Github" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-</a>
-
-<a href="https://t.me/SrirajBehera" target="_blank">
-  <img align="left" alt="Sriraj's Telegram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Telegram_2019_simple_logo.svg" />
-</a>
-
-<a href="https://www.instagram.com/sriraj_2911/" target="_blank">
-  <img align="left" alt="Sriraj's Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
-</a>
-
-<a href="https://www.facebook.com/sriraj.behera.395/" target="_blank">
-  <img align="left" alt="Sriraj's Facebook" width="40px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
-</a>
-
-<br/>
-<br/>
-
----
-
-Last modified on: 28/06/2021
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
